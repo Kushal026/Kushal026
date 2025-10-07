@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi there 👋, I'm Kushal H</h1>
-<h3 align="center">⚡About Me</h3>
+<h3 align="left">⚡About Me</h3>
 
 
 - I’m a Computer Science student who loves turning ideas into code and code into experiences. Whether it’s crafting sleek web apps 🌐, building mobile solutions 📱, experimenting with AI 🤖, designing smooth UI/UX 🎨, or diving into cybersecurity 🔐.I love blending creativity with tech to build smart, secure, and user-friendly solutions.
