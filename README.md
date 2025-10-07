@@ -1,8 +1,6 @@
 <div>
-  <img align="center" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=%F0%9F%94%A5Igniting%20Innovation%F0%9F%9A%80%20One%20Line%20at%20a%20Time&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=%F0%9F%94%A5Igniting%20Innovation%F0%9F%9A%80%20One%20Line%20at%20a%20Time&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
 
 <h1 align="center">Hi there 👋, I'm Kushal H</h1>
 <h3 align="left">⚡About Me</h3>
