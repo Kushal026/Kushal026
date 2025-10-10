@@ -35,14 +35,18 @@ ___
 
 ___
 <h3 align="left">📊 Stats:</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushal026&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal026&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal026&show_icons=true&locale=en&theme=dracula&layout=compact" alt="kushal026" />
+</p>
 
-<a href="http://www.github.com/Kushal026"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal026&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushal026&show_icons=true&theme=dracula&locale=en" alt="kushal026" />
+</p>
 
-<p align="left"> <a href="https://github.com/Kushal026/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kushal026&theme=onedark&custom_title=Trophies" alt="kushal026" /></a> </p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal026&theme=dracula" alt="kushal026" />
+</p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal026&theme=dracula" alt="kushal026" /></a> </p>
 ___
