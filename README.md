@@ -57,10 +57,10 @@ ___
   <img src="https://github-readme-stats.vercel.app/api?username=kushal026&show_icons=true&theme=dracula&locale=en" alt="kushal026" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal026&theme=dracula" alt="kushal026" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=kushal026&theme=dracula&hide_border=false)<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal026&theme=dracula" alt="kushal026" /></a> </p>
 
 ___
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
