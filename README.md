@@ -8,11 +8,11 @@
 
 - I’m a Computer Science student who loves turning ideas into code and code into experiences. Whether it’s crafting sleek web apps 🌐, building mobile solutions 📱, experimenting with AI 🤖, designing smooth UI/UX 🎨, or diving into cybersecurity 🔐.I love blending creativity with tech to build smart, secure, and user-friendly solutions.
 
-- 📚 I’m currently learning (CSS,JS) for Frontend and (JAVA) for Backend.
+- 📚 I’m currently learning (CSS,JS,TS) for Frontend, (JAVA) for Backend and (React) framework.
 
-- 🚀 I like to build small apps, games, with GUIs(Tkinter,Qt,NodeJs).
+- 🚀 I like to build websites, apps, games, with GUIs(Tkinter,Qt,NodeJs).
 
-- 💻 I’m currently working on my project 'EDU PATH FINDERS' a website for career and education advisor.
+- 💻 I’m currently working on my project 'EDU PATH' a website for career and education advisor.
 
 ___
 <div align="center">
