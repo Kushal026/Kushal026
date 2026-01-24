@@ -59,7 +59,5 @@ ___
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kushal026&theme=dracula&hide_border=false)<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal026&theme=dracula" alt="kushal026" /></a> </p>
-
 ___
 
