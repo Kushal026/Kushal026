@@ -6,13 +6,9 @@
 <h3 align="left">⚡About Me:</h3>
 
 
-- I’m a Computer Science student who loves turning ideas into code and code into experiences. Whether it’s crafting sleek web apps 🌐, building mobile solutions 📱, experimenting with AI 🤖, designing smooth UI/UX 🎨, or diving into cybersecurity 🔐.I love blending creativity with tech to build smart, secure, and user-friendly solutions.
+- I’m a Computer Science student who loves turning ideas into real-world solutions. Whether it’s crafting sleek web apps 🌐, building mobile solutions 📱, experimenting with AI 🤖, designing smooth UI/UX 🎨. I love blending creativity with tech to build smart, secure, and user-friendly solutions.
 
-- 📚 I’m currently learning (CSS,JS,TS) for Frontend, (JAVA) for Backend and (React) framework.
-
-- 🚀 I like to build websites, apps, games, with GUIs(Tkinter,Qt,NodeJs).
-
-- 💻 I’m currently working on my project 'EDU PATH' a website for career and education advisor.
+- 📚 I’m currently learning (CSS,JS,TS) for Frontend, (SQL) for Backend and (React) framework.
 
 ___
 <div align="center">
@@ -53,10 +49,6 @@ ___
 ![](https://github-readme-stats.vercel.app/api?username=Kushal026&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kushal026&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal026&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Kushal026&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ___
 
