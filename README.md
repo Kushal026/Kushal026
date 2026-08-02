@@ -6,9 +6,9 @@
 <h3 align="left">⚡About Me:</h3>
 
 
-- I’m a Computer Science student who loves turning ideas into real-world solutions. Whether it’s crafting sleek web apps 🌐, building mobile solutions 📱, experimenting with AI 🤖, designing smooth UI/UX 🎨. I love blending creativity with tech to build smart, secure, and user-friendly solutions.
+- I’m a 3rd year Computer Science student who loves turning ideas into real-world solutions. Whether it’s crafting sleek web apps 🌐, building mobile solutions 📱, experimenting with AI 🤖, designing smooth UI/UX 🎨. I love blending creativity with tech to build smart, secure, and user-friendly solutions.
 
-- 📚 I’m currently learning (CSS,JS,TS) for Frontend, (SQL) for Backend and (React) framework.
+- 📚 I’m currently learning Data Structures and Algorithms(DSA) concepts.
 
 ___
 <div align="center">
