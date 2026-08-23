@@ -4,7 +4,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Kushal H</h1>
-<h6 align="right"><img src="./header.svg" alt="I build AI & ML Systems" /></h6>
 <h2 align="center">AI & ML Systems |
 Full-Stack Developer |
 Building Real-World Solutions</h2>
