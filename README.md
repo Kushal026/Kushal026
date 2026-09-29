@@ -7,6 +7,9 @@
 <h2 align="center">AI & ML Systems |
 Full-Stack Developer |
 Building Real-World Solutions</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=AI+%26+ML+Systems;Full-Stack+Developer;Computer+Vision;Voice+AI+%26+Intelligent+Agents;Building+Real-World+Solutions" alt="Typing SVG" />
+</h2>
 <h3 align="left">⚡About Me:</h3>
 
 
