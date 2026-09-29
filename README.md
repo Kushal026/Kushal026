@@ -10,9 +10,13 @@ Building Real-World Solutions</h2>
 <h3 align="left">⚡About Me:</h3>
 
 
-- I’m a 3rd-year Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy turning ideas into practical, intelligent applications and solving real-world problems through technology. My goal is to become an AI/ML Engineer building scalable, production-ready intelligent systems.
+- I’m a 3rd-year Computer Science Engineering student with a strong interest in AI/ML, Full-Stack Development, Computer Vision, Voice AI, and Mobile App Development.
+
+- I’m developing professional expertise in Python, Java, C/C++, JavaScript/TypeScript, React, FastAPI, Machine Learning, Computer Vision, and AI-based application development, while continuously strengthening my programming and problem-solving skills.
+
+- I’m passionate about exploring emerging technologies, building intelligent software solutions, and turning ideas into practical applications. Currently, I’m focused on advancing my skills in AI/ML and software development while preparing for opportunities in the technology industry.
   
-- I’m currently learning Data Structures and Algorithms(DSA) concepts.
+- I’m currently learning Data Structures and Algorithms(DSA) concepts and RAG.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal026&label=Profile%20views&color=0e75b6&style=flat" alt="kushal026" /> </p>
 
@@ -57,4 +61,7 @@ ___
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kushal026&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ___
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=b30041"  />
+</div>
 
